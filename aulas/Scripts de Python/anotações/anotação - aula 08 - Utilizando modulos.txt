@@ -1,0 +1,6 @@
+bibliotecas de modulos
+
+funções :
+
+import(NomeDaBiblioteca)
+from(Biblioteca)import(Função)
